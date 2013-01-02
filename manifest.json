@@ -4,7 +4,7 @@
   "version": "1",
   "app": {
     "urls": [
-      "*://konforti.github.com",
+      "*://konforti.github.com"
     ],
     "launch": {
       "web_url": "http://konforti.github.com"
