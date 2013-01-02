@@ -1,7 +1,7 @@
 {
   "name": "Konforti",
   "description": "ID",
-  "version": "1",
+  "version": "2",
   "app": {
     "urls": [
       "*://konforti.github.com"
